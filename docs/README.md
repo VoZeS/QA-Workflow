@@ -2,10 +2,12 @@
 ## Quality Assurance (QA)
 QA is a systematic and planned process implemented to provide confidence on the developed product and fulfill its quality demands for the customers. This cannot be mixed up with Quality Control, which objective is to determine which are the quality requirements for the QA to fulfill. And last, there is Testing, process that detects the errors in the product.
 
-![QA, QC and Testing Diagram]()
+![QA, QC and Testing Diagram](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/QA_QC_Testing.jpeg)
 
 ## QA in Video Games
 Quality Assurance in videogames is by far one of the most important process in _Video Game Development_. The QA Process is the one that prevents all videogames to be plenty of _bugs_ and _glitches_ breaking the game. So, for that, just like Programming needs programmers and Art needs artists, Quality Assurance needs also a team.
+
+![GameDevTeam](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/TeamBuildingDiagram.png)
 
 ### QA Team
 QA Team may be the most undervalued team in game development, yet the most important, so they are responsible of finding all errors that break the game experience. To do so, there are different charges and responsibilites inside their team:
@@ -24,5 +26,7 @@ QA Team may be the most undervalued team in game development, yet the most impor
 
 ## Documentation
 [Quality Assurance & Quality Control](https://asq.org/quality-resources/quality-assurance-vs-control)
+
 [QA, QC & Testing](https://joshuabgad.medium.com/about-qa-in-the-game-industry-709903d780b6)
+
 [QA Team](https://8bitplay.com/blog/ultimate-super-turbo-hd-guide-to-the-game-development-roles-qa-game-tester-jobs#what-is-QA-tester)
