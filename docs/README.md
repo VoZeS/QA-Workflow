@@ -22,6 +22,8 @@ QA Team may be the most undervalued team in game development, yet the most impor
 
 * **QA Automation Tester & QA Test Engineer:** These roles are more dependable in QA. The first one is responsible to automate the testing process to save maximum time as possible. He/She needs to have certain level of programming, so they might have to create a script for specific repeatable actions. The second role's job is to program improvements for needed tools and processes to test the game. These oversees the project from a production Point of View.
 
+### Bugs Report
+
 ### QA Workflow
 
 ## Documentation
