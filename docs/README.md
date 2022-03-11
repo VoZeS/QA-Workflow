@@ -42,7 +42,7 @@ For this process, companies may follow the next template (or similar) for carryi
 
 3. **Core playtest**
 
-* Thinking aloud method will be the one used (the tester speaks what they think while playing the game).
+* Thinking aloud method (the tester speaks what they think while playing the game).
 * The tester is observed by the test holder.
 * The test holder will have minimum (or none, is possible) interaction with the tester.
 * Test holder takes notes.
