@@ -24,7 +24,39 @@ QA Team may be the most undervalued team in game development, yet the most impor
 
 ### Bugs Report
 #### Step 1: QA Testing
-All errors that might be in your game should be detected in QA Testing sessions. This sessions will take place in order to test all new mechanics and code incorporations. So, if a bug is found, is needed to be reported.
+##### Internal QA Test
+All errors that might be in your game should be detected in QA Testing sessions. This sessions will take place in order to test all new mechanics and code incorporations. So, if a bug is found, is needed to be reported. Internal QA Testing may also be known as Bug Testing. So, in this process, QA Testers (Juniors, Seniors and Leads) test the game to fins bugs and report them, just to assure the game is not broke and, if it is, fix it in time.
+
+##### External QA Test - Playtesting
+External QA Testing is also known as Playtesting. This process is quite different to the Bug Testing. On the one hand, companies do not get professional QA workers nor developers. The people responsible of playing the game may be just regular players. Avoid family members or friends, they are so close to you and they will be biased, and that is the most important thing about playtesting: playtesters have to be **unbiased**. On the other hand, the purpose of playtesting is not the same as the Bug Testing. When doing External QA Testing, testers do not focus on finding bugs, they just play for fun and note everything that they think it do not feel quite right in the game. So this tests are done to assure _fun quality_ is enough.
+
+For this process, companies may follow the next template (or similar) for carrying out the playtest:
+
+1. **Presentation** _(2 min)_
+
+2. **Pre game questions** _(5 min)_
+
+* Which is their favourite genre?
+* Do they like or play videogames of your videogame's genre?
+* ...
+
+3. **Core playtest**
+
+* Thinking aloud method will be the one used (the tester speaks what they think while playing the game).
+* The tester is observed by the test holder.
+* The test holder will have minimum (or none, is possible) interaction with the tester.
+* Test holder takes notes.
+
+4. **Post game questionnaire** _(10min)_
+
+* Puntuation 1-10
+* What the tester thinks about the game?
+* What they would improve about the game?
+* What they would keep?
+* ...
+
+5. **Thanks and send off** _(2min)_
+
 
 #### Step 2: Bug Report
 ##### Github Issues
@@ -76,33 +108,6 @@ There are two levels inside the development pipeline where workflows can act. Th
 The second one reflects an internal QA view, looking inside the QA Team and how do they work, for example, for bug reporting:
 
 ![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow.png?raw=true)
-
-### External QA Test
-Sometimes, companies just decide to contract external QA Testers. For that, they might consider using the following template for a better quality test:
-
-1. **Presentation** _(2 min)_
-
-2. **Pre game questions** _(5 min)_
-
-* Which is their favourite genre?
-* Do they like or play videogames of your videogame's genre?
-* ...
-
-3. **Core playtest** _(20 min)_
-
-* Thinking aloud method will be the one used (the tester speaks what they think while playing the game).
-* The tester is observed by the test holder.
-* The test holder will have minimum (or none, is possible) interaction with the tester.
-* Test holder takes notes.
-
-4. **Post game questionnaire** _(10min)_
-
-* What the tester thinks about the game?
-* What they would improve about the game?
-* What they would keep?
-* ...
-
-5. **Thanks and send off** _(2min)_
 
 ## Documentation
 [Quality Assurance & Quality Control](https://asq.org/quality-resources/quality-assurance-vs-control)
