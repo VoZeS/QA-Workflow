@@ -23,8 +23,90 @@ QA Team may be the most undervalued team in game development, yet the most impor
 * **QA Automation Tester & QA Test Engineer:** These roles are more dependable in QA. The first one is responsible to automate the testing process to save maximum time as possible. He/She needs to have certain level of programming, so they might have to create a script for specific repeatable actions. The second role's job is to program improvements for needed tools and processes to test the game. These oversees the project from a production Point of View.
 
 ### Bugs Report
+#### Step 1: QA Testing
+All errors that might be in your game should be detected in QA Testing sessions. This sessions will take place in order to test all new mechanics and code incorporations. So, if a bug is found, is needed to be reported.
+
+#### Step 2: Bug Report
+##### Github Issues
+If your team is working by Github, an easy way of reporting bugs, crashes or glitches is using Github Issues.
+This github section allows us to report bugs easily. For that, though, you might use a Bug Report Template in order to avoid chaotic explanation and to be clearer.
+
+##### Bug Report Template
+**Title:** Short and clear description of the bug. Few words as possible.
+
+**Step By Step:** Reproduce _step by step_, as descriptive as possible, the actions that take to the bug.
+
+**Expected Behaviour:** State what is _supposed_ to happen in the game.
+
+**Real Behaviour:** State what _really_ happens in the game.
+
+**Frequency:** State how often does the bug occur.
+  * Always
+  * High
+  * Medium
+  * Low
+
+**Priority:**
+  * Urgent
+  * High
+  * Medium
+  * Low
+
+**Version:** Version of the game the bug occurs.
+
+![Bug Report Template](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/bug_reports_template.png)
+
+##### Labels
+Labels are simple tags to be putted on every bug report to easily recognise which type of it is.
+
+**Types:**
+
+![Bug Report Labels](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/bug_reports_labels.png)
+
+## Step 3: Bug Fixing
+If the bug encountered is small and it can be fixed easily, it should be done quickly and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
 
 ### QA Workflow
+QA uses workflow to follow its pipeline. Workflows are very useful to know the process and how it works.
+
+There are two levels inside the development pipeline where workflows can act. The first one reflects an external QA view, overseeing all project from the QA:
+
+![Game Dev Workflow](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow2.png)
+
+The second one reflects an internal QA view, looking inside the QA Team and how do they work, for example, for bug reporting:
+
+![QA Workflow](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/qa_workflow.png)
+
+### Quality Test
+## Internal QA
+Our QA Team have weekly meetings for playtesting. Every Friday, after the Team Meeting, will begin the play test, in order to check all new mechanics implemented during all week and find posible bugs. This QA Team is formed by 3 members: the QA Manager and two QA Testers, all three members of [Nautilus Studios](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/wiki). Although QA Testing Sessions will have varaible duration (depending on the implementations added during the week) it should take around 30 minutes to take the test.
+
+## External QA
+Due to the fact that we are a small team, external QA Sessions will be exclusive for special occasions, such as the deliver of the Alpha, the Beta and the final game versions to ensure the player is playing the way he should do and find new bugs. For these, our team will turn to friends which have some videogame expirience (or not) to play the game.
+
+### QA Test
+All external QA Tests will be supervised by a QA Internal Member, and will follow the following structure:
+1. **Presentation** (2 min)
+
+2. **Pre game questions** _(5 min)_
+
+* Which is their favourite genre?
+* Do they like or play RPG videogames?
+
+3. **Core playtest** _(20 min)_
+
+* Thinking aloud method will be the one used (the tester speaks what they think while playing the game).
+* The tester is observed by the test holder.
+* The test holder will have minimum (or none, is possible) interaction with the tester.
+* Test holder takes notes.
+
+4. **Post game questionnaire** _(10min)_
+
+* What the tester thinks about the game?
+* What they would improve about the game?
+* What they would keep?
+
+5. **Thanks and send off** _(2min)_
 
 ## Documentation
 [Quality Assurance & Quality Control](https://asq.org/quality-resources/quality-assurance-vs-control)
