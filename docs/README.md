@@ -77,21 +77,16 @@ The second one reflects an internal QA view, looking inside the QA Team and how 
 
 ![QA Workflow](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/qa_workflow.png)
 
-### Quality Test
-## Internal QA
-Our QA Team have weekly meetings for playtesting. Every Friday, after the Team Meeting, will begin the play test, in order to check all new mechanics implemented during all week and find posible bugs. This QA Team is formed by 3 members: the QA Manager and two QA Testers, all three members of [Nautilus Studios](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/wiki). Although QA Testing Sessions will have varaible duration (depending on the implementations added during the week) it should take around 30 minutes to take the test.
+### External QA Test
+Sometimes, companies just decide to contract external QA Testers. For that, they might consider using the following template for a better quality test:
 
-## External QA
-Due to the fact that we are a small team, external QA Sessions will be exclusive for special occasions, such as the deliver of the Alpha, the Beta and the final game versions to ensure the player is playing the way he should do and find new bugs. For these, our team will turn to friends which have some videogame expirience (or not) to play the game.
-
-### QA Test
-All external QA Tests will be supervised by a QA Internal Member, and will follow the following structure:
-1. **Presentation** (2 min)
+1. **Presentation** _(2 min)_
 
 2. **Pre game questions** _(5 min)_
 
 * Which is their favourite genre?
-* Do they like or play RPG videogames?
+* Do they like or play videogames of your videogame's genre?
+* ...
 
 3. **Core playtest** _(20 min)_
 
@@ -105,6 +100,7 @@ All external QA Tests will be supervised by a QA Internal Member, and will follo
 * What the tester thinks about the game?
 * What they would improve about the game?
 * What they would keep?
+* ...
 
 5. **Thanks and send off** _(2min)_
 
@@ -114,3 +110,7 @@ All external QA Tests will be supervised by a QA Internal Member, and will follo
 [QA, QC & Testing](https://joshuabgad.medium.com/about-qa-in-the-game-industry-709903d780b6)
 
 [QA Team](https://8bitplay.com/blog/ultimate-super-turbo-hd-guide-to-the-game-development-roles-qa-game-tester-jobs#what-is-QA-tester)
+
+[General QA Info](https://github.com/cumus/Juicy_Code-Square_Up/wiki/6.-QA-Plan)
+
+[General QA Info (2)](https://github.com/DevCrumbs/Warcraft-II/wiki/8.-QA-Plan)
