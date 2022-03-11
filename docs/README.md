@@ -60,7 +60,7 @@ For this process, companies may follow the next template (or similar) for carryi
 
 #### Step 2: Bug Report
 ##### Github Issues
-If your team is working by Github, an easy way of reporting bugs, crashes or glitches is using Github Issues.
+If your team is working with Github, an easy way of reporting bugs, crashes or glitches is using Github Issues.
 This github section allows us to report bugs easily. For that, though, you might use a Bug Report Template in order to avoid chaotic explanation and to be clearer.
 
 ##### Bug Report Template
@@ -95,7 +95,7 @@ Labels are simple tags to be putted on every bug report to easily recognise whic
 
 ![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_labels.png?raw=true)
 
-## Step 3: Bug Fixing
+#### Step 3: Bug Fixing
 If the bug encountered is small and it can be fixed easily, it should be done quickly and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
 
 ### QA Workflow
