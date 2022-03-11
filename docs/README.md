@@ -54,14 +54,14 @@ This github section allows us to report bugs easily. For that, though, you might
 
 **Version:** Version of the game the bug occurs.
 
-![](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/bug_reports_template.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_template.png)
 
 ##### Labels
 Labels are simple tags to be putted on every bug report to easily recognise which type of it is.
 
 **Types:**
 
-![](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/bug_reports_labels.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_labels.png)
 
 ## Step 3: Bug Fixing
 If the bug encountered is small and it can be fixed easily, it should be done quickly and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
@@ -75,7 +75,7 @@ There are two levels inside the development pipeline where workflows can act. Th
 
 The second one reflects an internal QA view, looking inside the QA Team and how do they work, for example, for bug reporting:
 
-![](https://github.com/VoZeS/NautilusStudios-ProjectII_RPG/blob/main/wiki_images/qa_workflow.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow.png)
 
 ### External QA Test
 Sometimes, companies just decide to contract external QA Testers. For that, they might consider using the following template for a better quality test:
