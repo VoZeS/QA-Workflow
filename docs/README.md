@@ -2,12 +2,12 @@
 ## Quality Assurance (QA)
 QA is a systematic and planned process implemented to provide confidence on the developed product and fulfill its quality demands for the customers. This cannot be mixed up with Quality Control, which objective is to determine which are the quality requirements for the QA to fulfill. And last, there is Testing, process that detects the errors in the product.
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/QA_QC_Testing.jpeg)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/QA_QC_Testing.jpeg?raw=true)
 
 ## QA in Video Games
 Quality Assurance in videogames is by far one of the most important process in _Video Game Development_. The QA Process is the one that prevents all videogames to be plenty of _bugs_ and _glitches_ breaking the game. So, for that, just like Programming needs programmers and Art needs artists, Quality Assurance needs also a team.
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/TeamBuildingDiagram.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/TeamBuildingDiagram.png?raw=true)
 
 ### QA Team
 QA Team may be the most undervalued team in game development, yet the most important, so they are responsible of finding all errors that break the game experience. To do so, there are different charges and responsibilites inside their team:
@@ -54,14 +54,14 @@ This github section allows us to report bugs easily. For that, though, you might
 
 **Version:** Version of the game the bug occurs.
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_template.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_template.png?raw=true)
 
 ##### Labels
 Labels are simple tags to be putted on every bug report to easily recognise which type of it is.
 
 **Types:**
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_labels.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/bug_reports_labels.png?raw=true)
 
 ## Step 3: Bug Fixing
 If the bug encountered is small and it can be fixed easily, it should be done quickly and start working on the remaining features of the game once fixed. Otherwise, if the bug is big, programmers should have few more days to work on that. It should not take more than that to fix the bug. However, if that situation occurs, only the specialist in that land should focus on the bug. The other members will continue working on the project.
@@ -71,11 +71,11 @@ QA uses workflow to follow its pipeline. Workflows are very useful to know the p
 
 There are two levels inside the development pipeline where workflows can act. The first one reflects an external QA view, overseeing all project from the QA:
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow2.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow2.png?raw=true)
 
 The second one reflects an internal QA view, looking inside the QA Team and how do they work, for example, for bug reporting:
 
-![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow.png)
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/qa_workflow.png?raw=true)
 
 ### External QA Test
 Sometimes, companies just decide to contract external QA Testers. For that, they might consider using the following template for a better quality test:
