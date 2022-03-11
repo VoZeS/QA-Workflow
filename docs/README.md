@@ -49,7 +49,7 @@ For this process, companies may follow the next template (or similar) for carryi
 
 4. **Post game questionnaire** _(10min)_
 
-* Puntuation 1-10
+* 1-10 Rate
 * What the tester thinks about the game?
 * What they would improve about the game?
 * What they would keep?
