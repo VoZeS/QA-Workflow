@@ -156,3 +156,5 @@ The second one reflects an internal QA view, looking inside the QA Team and how 
 [General QA Info (2)](https://github.com/DevCrumbs/Warcraft-II/wiki/8.-QA-Plan)
 
 [Agile](https://www.ayselucus.es/noticia/la-metodolog%C3%ADa-agile-como-herramienta-de-trabajo)
+
+[Waterfall](https://blog.comparasoftware.com/metodologia-waterfall/)
