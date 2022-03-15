@@ -22,6 +22,41 @@ QA Team may be the most undervalued team in game development, yet the most impor
 
 * **QA Automation Tester & QA Test Engineer:** These roles are more dependable in QA. The first one is responsible to automate the testing process to save maximum time as possible. He/She needs to have certain level of programming, so they might have to create a script for specific repeatable actions. The second role's job is to program improvements for needed tools and processes to test the game. These oversees the project from a production Point of View.
 
+### Methodology: Agile Vs. Secure
+There is not only one way to get the final product without errors. In fact, there are two recognized methods used by the companies, depending on what and how they really want to be their game.
+
+* **Agile:** The first methodology is about circles. Yes, metaphorically talking, is a circular process. That is because it is an inflected method ready to make any change depending on their feedback.
+
+Inside this methodology work, there are two more types of agile work:
+
+-- **Scrum:** This type is based on performing periodic intervals of work, called _sprints_. Each sprint has a fixed duration and at the end a partial delivery is made with the progress. This methodology has 4 stages:
+
+**Planning:** the objectives of the sprint and the steps to achieve them are based.
+
+**Execution:** Involves the development of objectives and includes a brief daily meeting to review the work.
+
+**Review:** the finished result or prototype is presented.
+
+**Retrospective:** the way in which the project has been executed is analyzed, detecting possible failures and points of improvement for the next sprint.
+
+-- **Kanban:** For this, a scheme made with notes or post its is used. This way you can see the status of the work at all times, including tasks to be done, in progress and completed. This methodology divides the project into small phases and the tasks that move the work forward are carried out continuously.
+
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/agile.png?raw=true)
+
+* **Secure:** This method, is linear and sequential. For that, in the beginning of the process the team defines its purposes and goals to state a plan for its project. For that, there are originally 5 stages to do so:
+
+-- **Requirements:** All the client's requirements are listed, in this way the next phases can be planned without too much client involvement, but maintaining fluid communication until the development is complete.
+
+-- **Design:**  The design phase is divided into sub-phases of logical design and physical design. Logical design is when ideas are brainstormed and possible solutions theorized. The physical design sub-phase is when all those theoretical ideas and schemes are turned into concrete specifications.
+
+-- **Implementation:** In this phase, the programmers or developers assimilate the requirements and specifications of the previous phases, and produce the code or base to make the project a reality.
+
+-- **Verification:** The client reviews the product to ensure that it meets each requirement established at the beginning of the project. The purpose of testing is to verify the quality of the software or product. In this phase, possible defects can be seen.
+
+-- **Maintenance:** During this phase, the customer will regularly use the product, and may discover more faults or possible inappropriate features. The team will then apply the solutions that are necessary for the client to be satisfied.
+
+![](https://github.com/VoZeS/QA-Workflow/blob/main/docs/images/waterfall.png?raw=true)
+
 ### Bugs Report
 #### Step 1: QA Testing
 ##### Internal QA Test
@@ -119,3 +154,5 @@ The second one reflects an internal QA view, looking inside the QA Team and how 
 [General QA Info](https://github.com/cumus/Juicy_Code-Square_Up/wiki/6.-QA-Plan)
 
 [General QA Info (2)](https://github.com/DevCrumbs/Warcraft-II/wiki/8.-QA-Plan)
+
+[Agile](https://www.ayselucus.es/noticia/la-metodolog%C3%ADa-agile-como-herramienta-de-trabajo)
